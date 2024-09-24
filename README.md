@@ -29,7 +29,7 @@
 <div align="center">
     <h3>Technologies I'd Like to learn</h3>
     <div align="center">
-        <a href="https://joulian.colle.dev"><img src="https://skillicons.dev/icons?i=php,threejs,zig,docker,arch,bash,bun,gitlab,java,neovim,tauri&perline=6" /></a>
+        <a href="https://joulian.colle.dev"><img src="https://skillicons.dev/icons?i=php,threejs,zig,docker,arch,bash,bun,gitlab,java,neovim,tauri,prisma&perline=6" /></a>
     </div>
 </div>
 <br />
