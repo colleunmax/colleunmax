@@ -1,7 +1,11 @@
-![Colle Joulian](./assets/name.svg)
+<a href="https://colle.dev">
+    <p align="center">
+        <img src="./name.svg" alt="handwriten text: 'I am Colle'">
+</p>
+</a>
 
 <p align="center" style="margin: 0 2rem;">
-    I am a computer science student who really enjoys coding, loves learning new things every day, and would like to create programs to help others.
+    I am a <strong>computer science student</strong> who really enjoys coding, loves learning new things every day, and would like to create programs to help others.
 </p>
 <br />
 <hr />
