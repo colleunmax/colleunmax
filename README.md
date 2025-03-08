@@ -43,5 +43,5 @@
 <br />
 <div align="center">
 
-![Joulian's GitHub stats](https://github-readme-stats.vercel.app/api?username=korujurisan&show_icons=true&theme=transparent)
+![Joulian's GitHub stats](https://github-readme-stats.vercel.app/api?username=colleunmax&show_icons=true&theme=transparent)
 </div>
