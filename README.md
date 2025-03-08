@@ -1,6 +1,6 @@
 <a href="https://colle.dev">
     <p align="center">
-        <img src="./name.svg" alt="handwriten text: 'I am Colle'">
+        <img width="300" src="./name.svg" alt="handwriten text: 'I am Colle'">
 </p>
 </a>
 
