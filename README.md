@@ -6,15 +6,13 @@
 </a>
 <hr />
 <br />
-<div align="left">
+<div align="center">
     <h3>Technologies I Love ♥️</h3>
-    <div align="left">
+    <div align="center">
         <a href="https://colle.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts,tailwind,next,linux,md,figma&theme=dark" /></a>
     </div>
 </div>
 <br />
-<br />
-<hr />
 <br />
 <div align="center">
     <h3>Technologies I Like 😁</h3>
@@ -24,11 +22,9 @@
 </div>
 <br />
 <br />
-<hr />
-<br />
-<div align="right">
+<div align="center">
     <h3>Technologies I'd Like to learn 🎓</h3>
-    <div align="right">
+    <div align="center">
         <a href="https://colle.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker,prisma,arch,bun,tauri,threejs&theme=dark" /></a>
     </div>
 </div>
